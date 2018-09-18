@@ -28,6 +28,8 @@ I am always fascinated by the e-commerce platforms as these provides a new shopp
 - What kind of products are popular and what kind of products are more expensive?
 - Is there any free product?
 
+A blogpost related to this project can be found here: https://medium.com/@uijaz59/mercari-japanese-leading-e-commerce-app-f5ab77ee258
+
 # Licensing, Acknowledgements
 I have worked on this project to understand different aspects of e-commerce platform related to product information. Feel free to use it for further analysis. 
 
