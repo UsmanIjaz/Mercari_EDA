@@ -11,10 +11,13 @@ Following libraries are used for this project:
 - matplotlib
 - seaborn
 - bokeh
+- math
+- warnings
 
 # File Description
-## Mercari_EDA.ipynb
-This file contains the data analyis done for Mercari dataset. 
+- Mercari_EDA.ipynb : This file contains the data analyis done for Mercari dataset. 
+- categories_mean.html : Bokeh visualization of mean prices for categories
+- Electronics_subcategories_mean.html : Bokeh visualization of mean prices for subcategories in category "Electronics"
 
 # Project Motivation
 I am always fascinated by the e-commerce platforms as these provides a new shopping experience which is different than the centuries old traditional shopping experience. It's first time for me to look into an e-commerce platform with a lens ofa data scientist. Some of the questions, I tried to answer in this notebook are:
