@@ -28,6 +28,15 @@ I am always fascinated by the e-commerce platforms as these provides a new shopp
 - What kind of products are popular and what kind of products are more expensive?
 - Is there any free product?
 
+# Summary 
+- 75% of the products are under $30 and 99% of the products are under $170.
+- ~43% of the products are in the best condition. ~25% are in very good condition and ~30% products are in good/average condition. On the other hand, ~2% of the products are in bad/worse condition. 
+- ~55% of the products shipping is paid by the buyers and for ~45% of the products shipping is paid by the sellers.
+- ~57% of the products have brand names. PINK is the most popular brand in terms of number of products whereas DEmdaco is the most expensive brand. 
+- ~45% of the products are in category “Women”. Top 2 most popular subcategories for category “Women” are “Athletic Apparel” and “Tops and Blouses”.
+- Most expensive category in terms of mean prices is “Electronics” with a mean price of $35.18. In Electronics, the most expensive subcategory is “Computers and Tablets” with a mean price of $87.88.
+- There are 874 free products. :)
+
 A blogpost related to this project can be found here: https://medium.com/@uijaz59/mercari-japanese-leading-e-commerce-app-f5ab77ee258
 
 # Licensing, Acknowledgements
